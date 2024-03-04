@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.appImage {
+  width: 70px;
+  height: 70px;
+  padding: 5px;
+}
+.app {
+  background-color: #ffffff;
+  width: 150px;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+  text-align: center;
+}
+.appName {
+  padding: 0px;
+  margin: 0px;
+}
